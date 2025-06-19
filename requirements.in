@@ -1,0 +1,13 @@
+requests
+selenium
+pillow
+numpy
+tqdm
+beautifulsoup4
+aiohttp
+webdriver_manager
+openai
+faiss-cpu
+streamlit
+tiktoken
+nltk
