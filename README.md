@@ -4,6 +4,10 @@ A complete pipeline for ingesting, preprocessing, indexing, and serving “The B
 
 ---
 
+## Demo
+
+[![Watch the demo](assets/demo_preview.png)](assets/demo.mp4)
+
 ## 📋 Prerequisites
 
 - **Python 3.11**  
@@ -245,4 +249,6 @@ Whenever you update code or ingest new data:
    eb deploy
    eb open
    ```
-# GenAI_Lab_RAG
+# Report
+
+The report is available [here](REPORT.md)
