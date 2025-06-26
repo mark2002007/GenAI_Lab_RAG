@@ -6,7 +6,7 @@ A complete pipeline for ingesting, preprocessing, indexing, and serving “The B
 
 ## Demo
 
-https://github.com/user-attachments/assets/89bb1d17-2f69-47c1-965f-8caefd4748e8
+https://github.com/user-attachments/assets/2783be42-22d2-4043-a8e2-7e96d2156756
 
 ## 📋 Prerequisites
 
